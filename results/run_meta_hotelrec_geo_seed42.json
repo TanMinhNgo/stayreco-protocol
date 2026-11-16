@@ -1,0 +1,284 @@
+{
+  "timestamp": "2026-11-16T22:26:07+07:00",
+  "command": "run_experiment.py 42 --dataset=hotelrec-full-sample --cold-item=0.2 --tag=hotelrec_geo_seed42",
+  "seeds": [
+    42
+  ],
+  "git": {
+    "commit": "98055ace1f4a6aca0f43d27cd6b82b8ba3665cd7",
+    "branch": "main",
+    "dirty": true
+  },
+  "config": {
+    "dataset": "hotelrec-full-sample",
+    "dataset_counts": {
+      "users": 1000,
+      "items": 1260,
+      "ratings": 21700
+    },
+    "dataset_details": {
+      "source": {
+        "source_url": "https://drive.switch.ch/public.php/dav/files/n48smsdufhRA7fR",
+        "source_repository": "https://github.com/diegoantognini/HotelRec",
+        "archive_checksums": {
+          "md5": "671e0290514f8411fe780fdea236783a",
+          "sha256": "160314db15080ecc15b547e9a235dfa971d388a88227e220147dafce3964aaff"
+        },
+        "archive_bytes": 14383775451,
+        "json_decoder": "orjson 3.11.9",
+        "integrity": "Source MD5 and complete HotelRec.txt ZIP CRC verified",
+        "reviews_scanned": 50264531,
+        "reviews_kept": 49047612,
+        "invalid_reviews_skipped": 1216919,
+        "global_counts": {
+          "users": 21891400,
+          "unique_pairs": 47731590,
+          "max_user_degree": 580,
+          "users_with_one": 15004625,
+          "users_ge5": 1946604,
+          "users_ge20": 174620,
+          "users_ge30": 68455
+        },
+        "hotels": 365011,
+        "max_hotel_degree": 10113,
+        "index_seconds": 1860.4,
+        "content": "Hotel name/location from URL only; no review text or ratings",
+        "demographics": "Unavailable; unknown fallback only",
+        "usage": "Academic research only",
+        "invalid_author_policy": [
+          "/undefined",
+          "a tripadvisor member",
+          "anonymous",
+          "null",
+          "undefined",
+          "unknown"
+        ],
+        "excluded_author_placeholders": {
+          "/undefined": {
+            "reviews": 1193017,
+            "unique_pairs": 38820
+          },
+          "Undefined": {
+            "reviews": 12,
+            "unique_pairs": 12
+          }
+        },
+        "sampling": "Full archive: most reviewed hotels, then most active users within selected catalog; ties by string ID",
+        "sampling_limits": {
+          "max_users": 1000,
+          "max_items": 2000
+        },
+        "sample_before_core": {
+          "users": 1000,
+          "min_user_degree": 18,
+          "max_user_degree": 59,
+          "unique_pairs": 23174
+        },
+        "prepared_sha256": {
+          "reviews_slim.csv.gz": "fd6d79a05c91397b39598fddd6db19803700ca7683cbe3a624ac5fb98abf0ee9",
+          "hotels.csv.gz": "1ddfa2e291f214d7d96d42a05ff6fdb8c4eb58eefe032a4fedf2904234f322e2"
+        }
+      },
+      "demographics": {
+        "available": true,
+        "feature": "home_region",
+        "known_users": 693,
+        "missing_users": 307,
+        "groups": 82,
+        "source": {
+          "feature": "home_region",
+          "target_reviews_sha256": "fd6d79a05c91397b39598fddd6db19803700ca7683cbe3a624ac5fb98abf0ee9",
+          "profiles_sha256": "909553a2d26d3e1cc53367bc444170b9040d8482f11d9d0f32d49786b61b0a78",
+          "profile_source": {
+            "file": "datasets_raw\\tripadvisor-us\\authors.json.gz",
+            "sha256": "da741b8b3433aa80fc135912b5d7cdce4b79dfa18b04a7b1e32c56e6c3368c15",
+            "paper": "https://ceur-ws.org/Vol-3498/paper8.pdf",
+            "rows_scanned": 2296248
+          },
+          "join": "Exact case-sensitive HotelRec author = profile username; ambiguous IDs/conflicting locations excluded",
+          "transform": "Last comma-separated part of self-reported hometown; whitespace normalized and casefolded",
+          "semantics": "Geographic home region: may be a state, country or city; not nationality",
+          "counts": {
+            "target_users": 1000,
+            "users_with_region": 693,
+            "known_region_groups": 82,
+            "invalid_matching_profiles": 0,
+            "match_status": {
+              "matched": 693,
+              "matched_without_hometown": 147,
+              "unmatched": 160
+            }
+          },
+          "region_counts": {
+            "united kingdom": 238,
+            "australia": 56,
+            "california": 47,
+            "florida": 28,
+            "canada": 23,
+            "new york": 20,
+            "illinois": 20,
+            "texas": 19,
+            "india": 16,
+            "china": 13,
+            "singapore": 10,
+            "massachusetts": 9,
+            "colorado": 8,
+            "district of columbia": 8,
+            "maryland": 8,
+            "north carolina": 8,
+            "switzerland": 7,
+            "ireland": 7,
+            "new jersey": 6,
+            "new zealand": 6,
+            "washington": 5,
+            "pennsylvania": 5,
+            "hawaii": 5,
+            "nevada": 5,
+            "united states": 5,
+            "virginia": 4,
+            "arizona": 4,
+            "indonesia": 4,
+            "the netherlands": 4,
+            "thailand": 4,
+            "united arab emirates": 4,
+            "minnesota": 4,
+            "finland": 4,
+            "philippines": 4,
+            "oregon": 3,
+            "sweden": 3,
+            "ohio": 3,
+            "georgia": 3,
+            "spain": 3,
+            "nebraska": 3,
+            "belgium": 3,
+            "connecticut": 3,
+            "iowa": 2,
+            "louisiana": 2,
+            "norway": 2,
+            "idaho": 2,
+            "missouri": 2,
+            "germany": 2,
+            "south africa": 2,
+            "france": 2,
+            "south carolina": 2,
+            "malaysia": 2,
+            "michigan": 2,
+            "kansas": 1,
+            "gibraltar": 1,
+            "romania": 1,
+            "barbados": 1,
+            "colombia": 1,
+            "grand cayman": 1,
+            "alabama": 1,
+            "peru": 1,
+            "israel": 1,
+            "ukraine": 1,
+            "oklahoma": 1,
+            "kentucky": 1,
+            "monaco": 1,
+            "türkiye": 1,
+            "sp": 1,
+            "wisconsin": 1,
+            "denmark": 1,
+            "fiji": 1,
+            "honduras": 1,
+            "europe": 1,
+            "utah": 1,
+            "russia": 1,
+            "delaware": 1,
+            "italy": 1,
+            "portugal": 1,
+            "mexico": 1,
+            "maine": 1,
+            "brunei darussalam": 1,
+            "tennessee": 1
+          },
+          "unavailable_attributes": [
+            "age",
+            "gender"
+          ],
+          "profile_observed_at": null,
+          "temporal_limitation": "Separate profile snapshot; availability at historical HotelRec review dates is not guaranteed"
+        }
+      },
+      "invalid_author_rows_removed": 0,
+      "subset": {
+        "max_users": 1000,
+        "max_items": 2000,
+        "min_user": 3,
+        "min_item": 5,
+        "selection": "Most reviewed hotels, then most active users; iterative core filtering",
+        "duplicate_pairs": "Keep latest timestamp"
+      }
+    },
+    "test_ratio": 0.2,
+    "val_ratio": 0.5,
+    "cold_user_ratio": 0.3,
+    "max_cold_n": 19,
+    "cold_item_ratio": 0.2,
+    "warm_min_n": 20,
+    "cold_max_n": 5,
+    "svdpp": {
+      "factors": 50,
+      "epochs": 30,
+      "lr": 0.005,
+      "reg": 0.02
+    },
+    "lightgcn": {
+      "factors": 32,
+      "layers": 3,
+      "epochs": 300,
+      "lr": 0.01
+    },
+    "content_k": 30,
+    "demo_cols": [
+      "demographic"
+    ],
+    "demo_shrinkage": 5,
+    "alpha_manual": {
+      "alpha_max": 0.7,
+      "n_threshold": 30,
+      "gamma_base": 0.15
+    },
+    "fixed_alphas": [
+      0.0,
+      0.3,
+      0.5,
+      0.7,
+      1.0
+    ],
+    "top_k": [
+      5,
+      10,
+      20
+    ],
+    "relevance_threshold": 4.0
+  },
+  "environment": {
+    "python": "3.11.16",
+    "platform": "Windows-10-10.0.26300-SP0",
+    "packages": {
+      "numpy": "1.26.4",
+      "pandas": "2.2.2",
+      "scipy": "1.17.1",
+      "scikit-learn": "1.5.2",
+      "scikit-surprise": "1.1.4",
+      "matplotlib": "3.9.2",
+      "torch": "2.14.0"
+    },
+    "blas": {
+      "blas": {
+        "name": "blas",
+        "version": "3.9.0",
+        "openblas configuration": "unknown"
+      },
+      "lapack": {
+        "name": "dep1473604930576",
+        "version": "1.26.4",
+        "openblas configuration": "unknown"
+      }
+    }
+  },
+  "ranking_protocol": "Precision/Recall/NDCG/Coverage@K xếp hạng trên TOÀN CATALOG: rổ ứng viên = mọi item user chưa rating trong train+validation; liên quan = item trong test với rating >= ngưỡng. Xem evaluation/ranking.py.",
+  "tuning_objective": "Mọi phương pháp được grid search trên validation theo RMSE (không theo metric xếp hạng) — như nhau cho tất cả, nhưng phải ghi rõ trong báo cáo."
+}

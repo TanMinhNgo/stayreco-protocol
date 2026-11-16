@@ -1,0 +1,69 @@
+{
+  "timestamp": "2026-11-17T00:01:56+07:00",
+  "command": "run_protocol.py --sample datasets_raw/hotelrec_protocol_sample_v2 --tag v2_s42 --seed 42",
+  "seeds": [
+    42
+  ],
+  "git": {
+    "commit": "98055ace1f4a6aca0f43d27cd6b82b8ba3665cd7",
+    "branch": "main",
+    "dirty": true
+  },
+  "config": {
+    "sample": "datasets_raw/hotelrec_protocol_sample_v2",
+    "t_val": 1501545600,
+    "t_test": 1525132800,
+    "grid_k": [
+      5,
+      10,
+      25,
+      50,
+      100,
+      200
+    ],
+    "grid_kc": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "fixed_alphas": [
+      0.0,
+      0.3,
+      0.5,
+      0.7,
+      1.0
+    ],
+    "bpr_epochs": 30,
+    "n_boot": 10000,
+    "max_bookings": null,
+    "min_n_khat": 30,
+    "region_min_count": 30
+  },
+  "environment": {
+    "python": "3.11.16",
+    "platform": "Windows-10-10.0.26300-SP0",
+    "packages": {
+      "numpy": "1.26.4",
+      "pandas": "2.2.2",
+      "scipy": "1.17.1",
+      "scikit-learn": "1.5.2",
+      "scikit-surprise": "1.1.4",
+      "matplotlib": "3.9.2",
+      "torch": "2.14.0"
+    },
+    "blas": {
+      "blas": {
+        "name": "blas",
+        "version": "3.9.0",
+        "openblas configuration": "unknown"
+      },
+      "lapack": {
+        "name": "dep1473604930576",
+        "version": "1.26.4",
+        "openblas configuration": "unknown"
+      }
+    }
+  }
+}

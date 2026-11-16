@@ -1,0 +1,9 @@
+,value
+k,25.0
+k_c,10.0
+fixed_alpha,0.3
+fixed_k_c,10.0
+k_hat,6.9427504543748615
+n_star,5.0
+val_ndcg_dynamic,0.4914491086912412
+val_ndcg_fixed,0.4914495431774969

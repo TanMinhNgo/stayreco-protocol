@@ -1,0 +1,7 @@
+,w_cf,ghi_chu,svd,content,svdpp,demo,sigma,theta,sigma1,w_svdpp,n_safe,w_content,alpha_max,n_threshold,gamma_base,alpha_min
+Tarek 2023 (ItemCF+CB+KB),0.5,trọng số cố định theo bài gốc,,,,,,,,,,,,,,
+Do & Le 2020 (SVD+CB),,,0.5034999935935262,0.49650000640647385,,,,,,,,,,,,
+Do & Le 2020 (mở rộng 3 TP),,,,0.33354228857469814,0.33717442866449154,0.3292832827608103,,,,,,,,,,
+OHWSF 2022 (SVD+SVD++),,,,,,,1.0,0.1,0.75,,,,,,,
+SL-ARec 2026 (SVD+++LightGCN),,,,,,,,,,0.0,5.0,0.75,,,,
+★ StayReco (α tuned),,,,,,,,,,,,,0.9,50.0,0.15,0.3

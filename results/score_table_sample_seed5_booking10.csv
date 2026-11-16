@@ -1,0 +1,201 @@
+user_id,item_id,rating,n,item_n,group,svdpp,svd,itemknn,lightgcn,content,demo,popular
+Albania|business|family with young children,Radisson Blu Hotel Milan,4.0,3,68,cold,3.629,3.654,3.97,2.858,3.11,4.16,4.16
+Albania|unknown|couple,Park Grand Paddington Court,5.0,2,232,cold,4.223,4.205,4.134,4.35,4.356,4.055,4.055
+Albania|unknown|couple,Suite Hotel 900 m zur Oper,5.0,2,149,cold,4.013,4.032,4.095,4.287,4.366,4.066,4.066
+Albania|unknown|solo traveler,Hotel Dieci,4.0,2,25,cold,3.73,3.729,3.924,3.133,3.653,3.958,3.958
+Andorra|leisure|family with young children,Aparthotel Mariano Cubi Barcelona,5.0,2,37,cold,4.5,4.497,4.268,4.72,4.675,4.233,4.233
+Angola|leisure|family with older children,Park Plaza County Hall London,3.0,0,177,cold,4.04,4.047,4.047,3.942,4.05,4.047,4.047
+Angola|leisure|solo traveler,The Grosvenor,2.0,2,142,cold,3.999,3.991,4.097,3.551,3.968,4.09,4.09
+Angola|leisure|solo traveler,The Nadler Kensington,5.0,2,92,cold,4.398,4.389,4.403,4.108,4.296,4.432,4.432
+Antigua Barbuda|leisure|group,Catalonia Barcelona 505,4.0,0,56,cold,4.012,4.02,4.063,3.889,4.072,4.063,4.063
+Antigua Barbuda|leisure|group,Le Marceau Bastille,3.0,0,52,cold,4.24,4.234,4.261,4.152,4.254,4.261,4.261
+Argentina|unknown|solo traveler,Park Grand London Kensington,3.0,4,177,cold,3.929,3.941,4.18,3.815,3.903,4.159,4.159
+Armenia|business|couple,Franklin Roosevelt,5.0,4,29,cold,4.192,4.186,4.438,3.732,3.818,4.443,4.443
+Armenia|business|couple,Hotel Carrobbio,3.0,4,50,cold,3.613,3.636,3.919,2.872,3.358,3.922,3.922
+Armenia|unknown|couple,Eurostars Monumental,5.0,2,60,cold,4.074,4.082,4.086,4.281,4.484,4.076,4.076
+Aruba|business|solo traveler,Barcel Raval,4.0,2,87,cold,3.949,3.939,4.06,3.289,3.62,4.082,4.082
+Australia|unknown|couple,Armani Hotel Milano,5.0,0,63,cold,4.682,4.691,4.648,4.729,4.616,4.648,4.648
+Australia|unknown|couple,The Chess Hotel,4.0,0,69,cold,4.404,4.411,4.437,4.492,4.42,4.437,4.437
+Australia|unknown|couple,Hotel Stendhal Place Vend me Paris MGallery by Sofitel,5.0,0,12,cold,4.621,4.628,4.611,4.711,4.513,4.611,4.611
+Australia|unknown|couple,The Cumberland A Guoman Hotel,4.0,0,206,cold,3.722,3.704,3.686,3.665,3.698,3.686,3.686
+Australia|unknown|couple,Park Hyatt Paris Vendome,5.0,0,14,cold,4.5,4.519,4.56,4.59,4.481,4.56,4.56
+Australia|unknown|couple,The Park Grand London Paddington,4.0,0,195,cold,3.73,3.709,3.699,3.651,3.711,3.699,3.699
+Australia|unknown|couple,Grand Royale London Hyde Park,4.333,0,241,cold,3.721,3.732,3.757,3.645,3.765,3.757,3.757
+Australia|unknown|couple,Starhotels Business Palace,4.0,0,140,cold,3.8,3.789,3.847,3.708,3.858,3.847,3.847
+Australia|unknown|couple,Hotel Stefanie,5.0,0,132,cold,4.556,4.553,4.595,4.628,4.581,4.595,4.595
+Australia|unknown|couple,DoubleTree by Hilton London Islington,5.0,0,85,cold,4.175,4.181,4.252,4.141,4.248,4.252,4.252
+Australia|unknown|couple,Au Manoir Saint Germain,4.0,0,41,cold,4.204,4.221,4.277,4.223,4.267,4.277,4.277
+Austria|business|couple,Radisson Blu Edwardian Kenilworth,5.0,2,106,cold,3.968,3.987,3.926,3.751,4.163,3.977,3.977
+Austria|business|couple,Das Opernring Hotel,5.0,2,82,cold,4.666,4.67,4.58,4.703,4.714,4.563,4.563
+Austria|business|couple,NH Collection Milano President,4.0,2,154,cold,4.487,4.444,4.296,4.326,4.443,4.27,4.27
+Austria|business|couple,Austria Trend Parkhotel Sch nbrunn Wien,4.0,2,116,cold,4.374,4.371,4.274,4.287,4.443,4.27,4.27
+Austria|business|couple,Hotel Ambassador,4.0,2,96,cold,4.2,4.186,4.114,4.112,4.3,4.128,4.128
+Austria|business|couple,Baglioni Hotel London The Leading Hotels of the World,5.0,2,32,cold,4.44,4.489,4.235,4.273,4.422,4.259,4.259
+Austria|business|couple,Hotel Bellevue Wien,4.0,2,24,cold,4.224,4.229,4.154,4.249,4.318,4.134,4.134
+Austria|business|couple,Norfolk Towers Paddington,4.0,2,193,cold,3.579,3.62,3.722,3.771,3.903,3.715,3.715
+Austria|business|couple,Expo Hotel Barcelona,5.0,2,137,cold,3.927,3.874,4.015,4.14,4.152,3.97,3.97
+Azerbaijan|unknown|couple,Austria Trend Hotel Anatol Wien,5.0,0,61,cold,4.379,4.383,4.454,4.252,4.435,4.454,4.454
+Bahrain|business|family with older children,Hotel Spadari Al Duomo,4.0,2,51,cold,4.821,4.832,4.717,4.81,4.747,4.73,4.73
+Bangladesh|business|group,Hilton Milan,3.0,4,84,cold,3.976,3.953,4.078,3.742,3.805,4.105,4.105
+Bangladesh|business|group,Holiday Inn Paris Gare de l Est,4.0,4,196,cold,3.876,3.871,3.815,3.397,3.531,3.822,3.822
+Bangladesh|leisure|family with young children,BEST WESTERN PLUS Amedia Wien,5.0,3,120,cold,3.556,3.58,4.028,2.898,3.343,4.096,4.096
+Bangladesh|leisure|family with young children,Holiday Inn London Oxford Circus,3.5,3,89,cold,3.222,3.168,3.637,2.53,2.837,3.565,3.565
+Bangladesh|leisure|family with young children,Mercure Paris Gare De Lyon TGV,4.0,3,70,cold,3.693,3.696,4.004,2.973,3.283,4.03,4.03
+Bangladesh|leisure|family with young children,Hyatt Regency Paris Etoile,3.0,3,192,cold,3.303,3.298,3.398,2.395,2.658,3.393,3.393
+Bangladesh|leisure|family with young children,NH Amsterdam Schiller,2.0,3,102,cold,3.543,3.546,3.91,2.792,3.119,3.872,3.872
+Bangladesh|leisure|family with young children,Room Mate Anna,3.0,3,84,cold,4.177,4.181,4.399,3.662,3.747,4.542,4.542
+Bangladesh|leisure|family with young children,DoubleTree by Hilton Hotel London Marble Arch,4.0,3,97,cold,3.463,3.459,3.822,2.792,3.108,3.847,3.847
+Bangladesh|leisure|family with young children,Holiday Inn London Regent s Park,1.0,3,131,cold,3.562,3.566,3.858,2.909,3.206,3.963,3.963
+Bangladesh|leisure|family with young children,Mercure Paris Centre Tour Eiffel,3.0,3,120,cold,3.767,3.73,4.172,3.085,3.271,4.024,4.024
+Bangladesh|leisure|family with young children,Novotel Paris Gare De Lyon,5.0,3,101,cold,3.91,3.887,4.19,3.175,3.443,4.193,4.193
+Belgium|business|couple,Canal House,4.0,2,37,cold,4.786,4.817,4.601,4.891,5.0,4.652,4.652
+Abkhazia Georgia|business|group,Aloft London Excel,5.0,2,0,cold_item,4.104,4.103,4.178,3.822,3.973,4.178,4.178
+Abkhazia Georgia|business|solo traveler,Ace Hotel London Shoreditch,4.0,12,0,cold_item,4.42,4.414,4.178,4.288,4.416,4.178,4.178
+Abkhazia Georgia|business|solo traveler,H tel Hor,4.0,12,0,cold_item,4.42,4.414,4.178,4.288,4.417,4.178,4.178
+Abkhazia Georgia|business|solo traveler,The Nadler Victoria,5.0,12,0,cold_item,4.42,4.414,4.178,4.288,4.419,4.178,4.178
+Abkhazia Georgia|leisure|couple,Club Hotel Cortina,4.0,35,0,cold_item,4.233,4.232,4.178,4.126,4.186,4.178,4.178
+Abkhazia Georgia|leisure|couple,Hotel Casa Fuster G L Monumento,5.0,35,0,cold_item,4.233,4.232,4.178,4.126,4.127,4.178,4.178
+Abkhazia Georgia|leisure|couple,Hotel Santa Marta Suites,5.0,35,0,cold_item,4.233,4.232,4.178,4.126,4.156,4.178,4.178
+Abkhazia Georgia|leisure|family with young children,Saint James Albany Paris Hotel Spa,4.0,16,0,cold_item,4.299,4.3,4.178,4.268,4.284,4.178,4.178
+Abkhazia Georgia|leisure|family with young children,Suites H tel Helzear Champs Elys es,4.0,16,0,cold_item,4.299,4.3,4.178,4.268,4.283,4.178,4.178
+Abkhazia Georgia|leisure|group,Copthorne Tara Hotel London Kensington,4.0,17,0,cold_item,4.439,4.443,4.178,4.358,4.427,4.178,4.178
+Abkhazia Georgia|leisure|solo traveler,Holiday Inn London Wembley,4.0,11,0,cold_item,4.247,4.262,4.178,4.179,4.254,4.178,4.178
+Abkhazia Georgia|leisure|solo traveler,Sunotel Club Central,2.0,11,0,cold_item,4.247,4.262,4.178,4.179,4.249,4.178,4.178
+Albania|business|family with young children,Novotel London Paddington,4.0,3,0,cold_item,3.739,3.738,4.178,2.933,3.137,4.178,4.178
+Albania|business|group,Austria Trend Hotel Astoria Wien,5.0,7,0,cold_item,4.047,4.055,4.178,3.898,3.956,4.178,4.178
+Albania|business|group,Hotel Ares Eiffel,4.0,7,0,cold_item,4.047,4.055,4.178,3.898,3.953,4.178,4.178
+Albania|business|solo traveler,Hotel Grums Barcelona,4.0,27,0,cold_item,4.143,4.147,4.178,4.067,4.139,4.178,4.178
+Albania|business|solo traveler,M venpick Hotel Amsterdam City Centre,5.0,27,0,cold_item,4.143,4.147,4.178,4.067,4.141,4.178,4.178
+Albania|business|solo traveler,NH Milano Touring,3.0,27,0,cold_item,4.143,4.147,4.178,4.067,4.137,4.178,4.178
+Albania|business|solo traveler,The Academy,3.0,27,0,cold_item,4.143,4.147,4.178,4.067,4.139,4.178,4.178
+Albania|leisure|couple,Aparthotel Adagio Vienna City,5.0,48,0,cold_item,4.114,4.113,4.178,3.979,3.967,4.178,4.178
+Albania|leisure|couple,Austria Trend Hotel Savoyen Vienna,5.0,48,0,cold_item,4.114,4.113,4.178,3.979,4.009,4.178,4.178
+Albania|leisure|couple,Eurostars Embassy,5.0,48,0,cold_item,4.114,4.113,4.178,3.979,4.153,4.178,4.178
+Albania|leisure|couple,Henry VIII,3.0,48,0,cold_item,4.114,4.113,4.178,3.979,4.109,4.178,4.178
+Albania|leisure|couple,Hotel Da Vinci,4.5,48,0,cold_item,4.114,4.113,4.178,3.979,4.234,4.178,4.178
+Albania|leisure|couple,Hotel Elys es Bassano,5.0,48,0,cold_item,4.114,4.113,4.178,3.979,4.09,4.178,4.178
+Albania|leisure|family with young children,Hotel Da Vinci,4.333,22,0,cold_item,4.222,4.22,4.178,4.257,4.204,4.178,4.178
+Albania|leisure|family with young children,Ilunion Almirante,5.0,22,0,cold_item,4.222,4.22,4.178,4.257,4.206,4.178,4.178
+Albania|leisure|family with young children,NH Milano Machiavelli,4.0,22,0,cold_item,4.222,4.22,4.178,4.257,4.211,4.178,4.178
+Albania|leisure|family with young children,Style Hotel,5.0,22,0,cold_item,4.222,4.22,4.178,4.257,4.208,4.178,4.178
+Albania|leisure|group,Eurostars Angli,5.0,15,0,cold_item,3.97,3.98,4.178,3.855,3.948,4.178,4.178
+Albania|leisure|group,Hotel Arts Barcelona,4.0,15,0,cold_item,3.97,3.98,4.178,3.855,3.946,4.178,4.178
+Albania|leisure|group,Mercure Hotel Amsterdam City South,2.0,15,0,cold_item,3.97,3.98,4.178,3.855,3.953,4.178,4.178
+Albania|leisure|group,Style Hotel,3.0,15,0,cold_item,3.97,3.98,4.178,3.855,3.95,4.178,4.178
+Albania|leisure|solo traveler,Austria Trend Hotel Astoria Wien,4.0,12,0,cold_item,4.459,4.457,4.178,4.485,4.488,4.178,4.178
+Albania|unknown|couple,Hotel Palace GL,5.0,2,0,cold_item,4.302,4.302,4.178,4.422,4.478,4.178,4.178
+Algeria|business|solo traveler,Bianca Maria Palace Hotel,5.0,16,0,cold_item,3.667,3.667,4.178,3.489,3.578,4.178,4.178
+Algeria|leisure|couple,La Clef Tour Eiffel,5.0,15,0,cold_item,3.916,3.917,4.178,3.74,3.851,4.178,4.178
+Algeria|leisure|family with young children,Residence Du Roy,5.0,5,0,cold_item,4.222,4.221,4.178,4.242,4.26,4.178,4.178
+Algeria|leisure|solo traveler,Eurostars Bcn Design,5.0,9,0,cold_item,3.851,3.852,4.178,3.666,3.719,4.178,4.178
+Algeria|leisure|solo traveler,Hotel Kaiserin Elisabeth,4.0,9,0,cold_item,3.851,3.852,4.178,3.666,3.721,4.178,4.178
+Algeria|leisure|solo traveler,M by Montcalm Shoreditch London Tech City,5.0,9,0,cold_item,3.851,3.852,4.178,3.666,3.722,4.178,4.178
+Andorra|business|solo traveler,DoubleTree by Hilton London Westminster,4.0,8,0,cold_item,4.621,4.625,4.178,4.649,4.769,4.178,4.178
+Andorra|leisure|couple,Hotel Balmes,4.0,14,0,cold_item,4.056,4.053,4.178,3.931,4.006,4.178,4.178
+Andorra|leisure|couple,Hotel Palace GL,5.0,14,0,cold_item,4.056,4.053,4.178,3.931,4.003,4.178,4.178
+Andorra|leisure|family with young children,Andaz Amsterdam Prinsengracht A Hyatt Hotel,3.0,2,0,cold_item,4.337,4.336,4.178,4.542,4.627,4.178,4.178
+Angola|business|solo traveler,Arbor City,4.0,5,0,cold_item,4.14,4.141,4.178,3.893,4.147,4.178,4.178
+Angola|leisure|couple,IH Hotels Milano Gioia,2.0,9,0,cold_item,4.245,4.247,4.178,4.289,4.267,4.178,4.178
+Angola|leisure|couple,Park Lane Mews Hotel,3.0,9,0,cold_item,4.245,4.247,4.178,4.289,4.269,4.178,4.178
+Angola|leisure|family with older children,Saint James Albany Paris Hotel Spa,5.0,0,0,cold_item,4.178,4.178,4.178,4.178,4.178,4.178,4.178
+Angola|leisure|family with young children,Hotel Elys es Bassano,3.0,9,0,cold_item,4.133,4.131,4.178,4.083,4.156,4.178,4.178
+Abkhazia Georgia|business|solo traveler,Grange Rochester Hotel,4.0,12,70,cool,4.238,4.24,4.088,3.986,4.27,4.023,4.023
+Abkhazia Georgia|leisure|group,Best Western Madison Hotel,4.0,17,112,cool,4.417,4.427,4.249,4.445,4.592,4.347,4.347
+Abkhazia Georgia|leisure|solo traveler,The Ampersand Hotel,5.0,11,72,cool,4.757,4.798,4.728,4.757,4.679,4.634,4.634
+Albania|business|group,Hotel Am Schubertring,5.0,7,107,cool,3.8,3.795,4.314,3.67,3.939,4.166,4.166
+Albania|business|group,The Premier Notting Hill,4.0,7,149,cool,3.805,3.784,3.851,3.606,3.57,3.796,3.796
+Albania|business|group,Hilton London Metropole,4.0,7,230,cool,3.748,3.719,3.597,3.234,3.344,3.566,3.566
+Albania|business|group,Le Marquis Eiffel,3.0,7,42,cool,4.245,4.267,4.579,4.366,4.21,4.463,4.463
+Albania|leisure|group,Austria Trend Hotel Europa Wien,4.0,15,142,cool,4.158,4.176,4.285,3.973,4.094,4.333,4.333
+Albania|leisure|group,Ayre Hotel Gran V a,5.0,15,131,cool,4.097,4.087,4.266,3.92,4.129,4.369,4.369
+Albania|leisure|group,Best Western Antares Hotel Concorde,5.0,15,51,cool,3.795,3.806,4.037,3.239,3.755,3.963,3.963
+Albania|leisure|solo traveler,Royal Garden Hotel,5.0,12,134,cool,4.748,4.762,4.386,4.699,4.749,4.451,4.451
+Algeria|business|solo traveler,Mayflower Hotel Apartments,1.0,16,122,cool,2.926,2.875,3.608,2.727,3.027,3.599,3.599
+Algeria|leisure|couple,Best Western Premier Op ra Faubourg Ex Hotel Jules ,2.0,15,83,cool,3.863,3.9,4.048,3.461,3.688,4.01,4.01
+Algeria|leisure|family with young children,Millennium Hotel London Mayfair,5.0,5,144,cool,4.118,4.103,3.803,3.718,3.907,3.819,3.819
+Algeria|leisure|family with young children,Catalonia Barcelona Plaza,5.0,5,158,cool,4.068,4.047,4.021,4.2,4.142,4.062,4.062
+Algeria|leisure|family with young children,Crowne Plaza Paris R publique,5.0,5,66,cool,3.985,3.965,4.201,4.101,4.159,4.074,4.074
+Algeria|leisure|solo traveler,Hotel Miramar Barcelona GL,5.0,9,56,cool,3.998,3.998,4.072,3.642,3.781,4.242,4.242
+Algeria|leisure|solo traveler,Hotel Royal Elys es,3.0,9,20,cool,3.753,3.744,4.032,3.32,3.521,3.942,3.942
+Algeria|leisure|solo traveler,The Langham London,3.0,9,81,cool,4.183,4.198,4.575,4.075,4.112,4.596,4.596
+Andorra|leisure|couple,Catalonia Ramblas 4 Sup,4.0,14,145,cool,3.925,3.911,4.136,4.059,4.03,4.203,4.203
+Andorra|leisure|couple,Grange Fitzrovia Hotel,4.0,14,51,cool,3.728,3.715,3.735,3.714,3.827,3.978,3.978
+Andorra|leisure|couple,Ayre Hotel Gran V a,4.0,14,131,cool,4.204,4.208,4.395,4.27,4.191,4.369,4.369
+Andorra|leisure|couple,Park Hyatt Vienna,4.0,14,38,cool,4.218,4.226,4.563,4.378,4.322,4.53,4.53
+Andorra|leisure|couple,H tel Le Royal Monceau Raffles Paris,5.0,14,11,cool,4.381,4.383,4.474,4.203,4.195,4.431,4.431
+Andorra|leisure|couple,Catalonia Barcelona Plaza,2.0,14,158,cool,3.871,3.88,3.837,3.646,3.887,4.062,4.062
+Andorra|leisure|couple,Rubens At The Palace,5.0,14,82,cool,4.331,4.354,4.505,4.159,4.231,4.412,4.412
+Andorra|leisure|couple,Sercotel Amister Art Hotel Barcelona,5.0,14,25,cool,4.124,4.132,4.127,4.076,4.021,4.199,4.199
+Andorra|leisure|couple,NH Collection Amsterdam Grand Hotel Krasnapolsky,4.0,14,166,cool,3.817,3.833,3.998,3.749,3.992,4.161,4.161
+Angola|business|solo traveler,Bloomsbury Palace Hotel,2.0,5,136,cool,3.53,3.49,3.245,2.928,3.33,3.329,3.329
+Angola|business|solo traveler,Park Plaza County Hall London,4.0,5,177,cool,3.915,3.917,3.937,3.425,4.013,4.047,4.047
+Angola|leisure|couple,Barcelona Princess,4.0,9,138,cool,4.172,4.118,3.987,4.216,4.235,4.153,4.153
+Argentina|business|couple,NH City Centre Amsterdam,4.0,12,109,cool,4.026,4.019,3.957,3.811,3.903,3.926,3.926
+Argentina|business|couple,Best Western Hotel Ascot,4.0,12,84,cool,3.581,3.6,3.77,3.58,3.677,3.684,3.684
+Argentina|business|couple,Grand Royale London Hyde Park,2.0,12,241,cool,3.751,3.759,3.757,3.752,3.733,3.757,3.757
+Argentina|business|solo traveler,Arbor Hyde Park,3.0,5,145,cool,4.076,4.087,3.948,3.75,4.097,4.007,4.007
+Argentina|business|solo traveler,Avenida Palace,4.0,5,124,cool,4.045,4.058,4.14,4.017,4.221,4.129,4.129
+Argentina|business|solo traveler,H tel Etoile Saint Honor by Happyculture,5.0,5,51,cool,4.369,4.365,4.033,3.876,4.191,4.11,4.11
+Argentina|business|solo traveler,Gallery Hotel,4.0,5,62,cool,4.607,4.615,4.483,4.363,4.589,4.527,4.527
+Argentina|business|solo traveler,Park Grand London Kensington,5.0,5,177,cool,4.169,4.153,4.276,4.11,4.24,4.159,4.159
+Argentina|business|solo traveler,Glam Milano,4.0,5,223,cool,4.583,4.584,4.53,4.442,4.528,4.447,4.447
+Argentina|business|solo traveler,Club Quarters Hotel Gracechurch,5.0,5,116,cool,4.22,4.22,4.16,3.873,4.225,4.142,4.142
+Argentina|business|solo traveler,Best Western Bretagne Montparnasse,5.0,5,66,cool,3.836,3.808,3.919,3.568,3.991,3.891,3.891
+Argentina|business|solo traveler,Hotel Galileo,4.0,5,90,cool,4.053,4.036,3.822,3.632,3.903,3.806,3.806
+Argentina|business|solo traveler,Madeleine Plaza,4.0,5,53,cool,4.315,4.316,4.122,4.064,4.309,4.23,4.23
+Argentina|business|solo traveler,Radisson Blu Edwardian Berkshire,4.0,5,133,cool,4.211,4.23,4.007,3.672,4.077,3.99,3.99
+Argentina|business|solo traveler,La Maison Favart,5.0,5,36,cool,4.542,4.578,4.618,4.478,4.681,4.652,4.652
+Argentina|business|solo traveler,Le A,5.0,5,36,cool,4.564,4.581,4.465,4.513,4.563,4.529,4.529
+Argentina|business|solo traveler,Shaftesbury Metropolis London Hyde Park,3.0,5,150,cool,4.098,4.082,3.765,3.718,3.97,3.879,3.879
+Argentina|leisure|family with older children,Waldorf Madeleine,4.0,12,86,cool,4.195,4.198,4.385,4.313,4.303,4.288,4.288
+Argentina|leisure|family with older children,The Rockwell,4.0,12,103,cool,4.255,4.248,4.071,4.02,4.165,4.141,4.141
+Abkhazia Georgia|leisure|couple,Hilton London Green Park,4.0,35,71,warm,3.557,3.566,3.627,3.444,3.539,3.499,3.499
+Abkhazia Georgia|leisure|couple,Hilton London Metropole,5.0,35,230,warm,3.214,3.194,3.71,3.984,3.614,3.566,3.566
+Abkhazia Georgia|leisure|couple,Shangri La Hotel at The Shard London,5.0,35,64,warm,4.723,4.722,4.719,4.55,4.715,4.641,4.641
+Abkhazia Georgia|leisure|couple,W Amsterdam,4.0,35,50,warm,4.288,4.286,4.16,3.696,4.213,4.243,4.243
+Albania|business|solo traveler,Apex Temple Court Hotel,3.0,27,90,warm,4.735,4.739,4.643,4.414,4.624,4.688,4.688
+Albania|business|solo traveler,DoubleTree by Hilton Hotel London Tower of London,5.0,27,151,warm,4.173,4.169,4.147,4.13,4.228,4.27,4.27
+Albania|business|solo traveler,Novotel London West,4.0,27,102,warm,3.959,3.956,3.835,3.652,3.928,3.957,3.957
+Albania|business|solo traveler,The Montague On The Gardens,3.0,27,54,warm,4.484,4.492,4.431,4.211,4.498,4.568,4.568
+Albania|leisure|couple,ARCOTEL Wimberger,5.0,48,52,warm,3.942,3.944,3.91,3.632,4.145,4.111,4.111
+Albania|leisure|couple,Austria Trend Hotel Doppio Wien,4.5,48,96,warm,4.32,4.302,4.278,4.241,4.263,4.219,4.219
+Albania|leisure|couple,Ayre Hotel Rosell n,5.0,48,84,warm,4.305,4.325,4.267,4.173,4.382,4.368,4.368
+Albania|leisure|couple,Four Seasons Hotel London at Park Lane,5.0,48,39,warm,4.676,4.704,4.636,4.596,4.508,4.729,4.729
+Albania|leisure|couple,Hotel Ambassador,5.0,48,96,warm,4.039,4.056,4.204,4.094,4.036,4.128,4.128
+Albania|leisure|couple,Mercure Hotel Amsterdam Centre Canal District,4.0,48,50,warm,4.006,3.974,4.143,3.739,4.049,4.14,4.14
+Albania|leisure|couple,Mercure Paris Opera Louvre,3.0,48,31,warm,4.089,4.077,4.208,3.805,4.026,4.11,4.11
+Albania|leisure|couple,The Student Hotel Amsterdam City,5.0,48,196,warm,4.199,4.22,4.344,4.017,4.224,4.338,4.338
+Albania|leisure|family with young children,Austria Trend Hotel Park Royal Palace Vienna,5.0,22,134,warm,4.377,4.364,4.465,4.46,4.356,4.335,4.335
+Albania|leisure|family with young children,Gran Hotel Barcino,2.0,22,32,warm,3.202,3.167,3.464,3.49,3.544,3.424,3.424
+Albania|leisure|family with young children,Steigenberger Hotel Herrenhof,5.0,22,115,warm,4.378,4.375,4.391,4.612,4.541,4.524,4.524
+Argentina|leisure|couple,Best Western The Boltons Hotel London Kensington,4.0,110,114,warm,3.846,3.833,3.742,4.063,3.809,3.824,3.824
+Argentina|leisure|couple,DoubleTree by Hilton London Hyde Park,5.0,110,130,warm,4.416,4.396,4.37,4.506,4.458,4.209,4.209
+Argentina|leisure|couple,Great Northern Hotel A Tribute Portfolio Hotel London,4.0,110,61,warm,4.727,4.712,4.367,4.363,4.626,4.458,4.458
+Argentina|leisure|couple,Hotel City Central,5.0,110,138,warm,4.027,4.031,4.326,4.717,4.45,4.299,4.299
+Argentina|leisure|couple,Hotel Sanpi Milano,2.0,110,50,warm,4.027,4.028,4.286,4.119,4.427,4.215,4.215
+Argentina|leisure|couple,Hotel Spa Villa Olimpica Suites,4.0,110,121,warm,3.584,3.594,3.757,4.225,3.989,3.806,3.806
+Argentina|leisure|couple,LaGare Hotel Milano Centrale MGallery by Sofitel,3.5,110,115,warm,4.455,4.438,4.383,4.218,4.437,4.326,4.326
+Argentina|leisure|couple,Petit Palace Barcelona,5.0,110,51,warm,4.128,4.138,4.08,4.257,4.236,4.11,4.11
+Argentina|leisure|couple,Radisson Blu Edwardian Berkshire,4.5,110,133,warm,4.365,4.371,4.109,4.073,4.251,3.99,3.99
+Argentina|leisure|couple,Ramada Apollo Amsterdam Centre,5.0,110,174,warm,4.474,4.482,4.261,5.0,4.392,4.132,4.132
+Argentina|leisure|couple,Shaftesbury Suites London Marble Arch,4.0,110,76,warm,4.146,4.177,3.874,3.597,4.186,3.927,3.927
+Argentina|leisure|couple,The Portobello Hotel,5.0,110,27,warm,4.515,4.528,4.212,4.42,4.625,4.462,4.462
+Argentina|leisure|couple,Vincci Bit,4.0,110,111,warm,4.483,4.494,4.03,4.232,4.277,4.164,4.164
+Argentina|leisure|family with young children,Austria Trend Parkhotel Sch nbrunn Wien,4.0,34,116,warm,4.445,4.465,4.192,4.044,4.362,4.27,4.27
+Argentina|leisure|family with young children,Best Western Nouvel Orl ans Montparnasse,5.0,34,66,warm,4.335,4.351,4.15,4.149,4.198,4.096,4.096
+Argentina|leisure|family with young children,NH Milano Grand Hotel Verdi,5.0,34,76,warm,4.509,4.454,4.233,4.343,4.32,4.186,4.186
+Argentina|leisure|family with young children,St James Hotel Club Mayfair,5.0,34,35,warm,4.401,4.398,4.438,4.441,4.416,4.291,4.291
+Argentina|leisure|group,Hotel Montalembert,5.0,25,16,warm,4.767,4.766,4.277,4.574,4.605,4.265,4.265
+Argentina|leisure|group,NH Collection Amsterdam Grand Hotel Krasnapolsky,3.5,25,166,warm,4.422,4.417,4.345,4.677,4.515,4.161,4.161
+Australia|business|couple,ADI Doria Grand Hotel,3.0,164,46,warm,4.101,4.123,4.024,4.081,4.274,4.179,4.179
+Australia|business|couple,Appartement Hotel an der Riemergasse,5.0,164,77,warm,4.52,4.493,4.542,4.909,4.741,4.561,4.561
+Australia|business|couple,Canary Riverside Plaza Hotel,4.0,164,22,warm,4.286,4.27,4.36,4.465,4.369,4.261,4.261
+Australia|business|couple,Catalonia Plaza Catalunya,5.0,164,141,warm,4.384,4.355,4.345,3.86,4.377,4.223,4.223
+Australia|business|couple,Catalonia Square 4 Sup,4.5,164,95,warm,4.73,4.728,4.714,4.501,4.891,4.758,4.758
+Australia|business|couple,Crowne Plaza London Kensington,4.0,164,81,warm,4.217,4.212,4.141,3.463,4.243,4.136,4.136
+Australia|business|couple,DoubleTree by Hilton London Hyde Park,2.0,164,130,warm,4.21,4.207,4.304,4.819,4.355,4.209,4.209
+Australia|business|couple,Flemings Mayfair,5.0,164,94,warm,4.316,4.325,4.242,3.716,4.358,4.278,4.278
+Australia|business|couple,Grand Royale London Hyde Park,4.333,164,241,warm,4.127,4.134,3.843,3.594,3.885,3.757,3.757
+Australia|business|couple,H tel Regina,3.5,164,72,warm,4.818,4.837,4.72,4.304,4.737,4.559,4.559
+Australia|business|couple,Hilton London Paddington,3.0,164,165,warm,4.195,4.155,4.062,4.199,4.078,4.018,4.018
+Australia|business|couple,Hilton Vienna Danube Waterfront,5.0,164,117,warm,4.025,3.967,3.956,3.899,4.249,3.967,3.967

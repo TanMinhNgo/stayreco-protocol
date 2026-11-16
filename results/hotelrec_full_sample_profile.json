@@ -1,0 +1,270 @@
+{
+  "dataset_counts": {
+    "users": 1000,
+    "items": 1260,
+    "ratings": 21700
+  },
+  "user_degree": {
+    "count": 1000.0,
+    "mean": 21.7,
+    "std": 5.634158654470403,
+    "min": 6.0,
+    "25%": 19.0,
+    "50%": 20.0,
+    "75%": 24.0,
+    "max": 58.0
+  },
+  "item_degree": {
+    "count": 1260.0,
+    "mean": 17.22222222222222,
+    "std": 13.830236406547185,
+    "min": 5.0,
+    "25%": 7.0,
+    "50%": 12.0,
+    "75%": 22.0,
+    "max": 114.0
+  },
+  "rating_distribution": {
+    "1.0": 312,
+    "2.0": 951,
+    "3.0": 3924,
+    "4.0": 9039,
+    "5.0": 7474
+  },
+  "split_config": {
+    "test_ratio": 0.2,
+    "val_ratio": 0.5,
+    "cold_user_ratio": 0.3,
+    "max_cold_n": 19,
+    "cold_item_ratio": 0.2,
+    "warm_min_n": 20,
+    "cold_max_n": 5
+  },
+  "split_profiles": [
+    {
+      "seed": 42,
+      "train": 12564,
+      "validation": 4599,
+      "test": 4456,
+      "ranking_users": 933,
+      "candidate_pairs": 1159548,
+      "rating_cold_item": 2053,
+      "rating_cold": 564,
+      "rating_cool": 1707,
+      "rating_warm": 132,
+      "ranking_cold": 76,
+      "ranking_cool": 794,
+      "ranking_warm": 63
+    },
+    {
+      "seed": 1,
+      "train": 12415,
+      "validation": 4598,
+      "test": 4593,
+      "ranking_users": 932,
+      "candidate_pairs": 1158516,
+      "rating_cold_item": 2226,
+      "rating_cold": 547,
+      "rating_cool": 1701,
+      "rating_warm": 119,
+      "ranking_cold": 71,
+      "ranking_cool": 808,
+      "ranking_warm": 53
+    },
+    {
+      "seed": 2,
+      "train": 12249,
+      "validation": 4789,
+      "test": 4558,
+      "ranking_users": 950,
+      "candidate_pairs": 1180795,
+      "rating_cold_item": 2339,
+      "rating_cold": 427,
+      "rating_cool": 1711,
+      "rating_warm": 81,
+      "ranking_cold": 56,
+      "ranking_cool": 857,
+      "ranking_warm": 37
+    },
+    {
+      "seed": 3,
+      "train": 12702,
+      "validation": 4559,
+      "test": 4402,
+      "ranking_users": 948,
+      "candidate_pairs": 1178154,
+      "rating_cold_item": 2045,
+      "rating_cold": 480,
+      "rating_cool": 1734,
+      "rating_warm": 143,
+      "ranking_cold": 67,
+      "ranking_cool": 815,
+      "ranking_warm": 66
+    },
+    {
+      "seed": 4,
+      "train": 12453,
+      "validation": 4554,
+      "test": 4609,
+      "ranking_users": 950,
+      "candidate_pairs": 1180845,
+      "rating_cold_item": 2140,
+      "rating_cold": 558,
+      "rating_cool": 1749,
+      "rating_warm": 162,
+      "ranking_cold": 75,
+      "ranking_cool": 816,
+      "ranking_warm": 59
+    },
+    {
+      "seed": 5,
+      "train": 12397,
+      "validation": 4592,
+      "test": 4583,
+      "ranking_users": 934,
+      "candidate_pairs": 1160994,
+      "rating_cold_item": 2063,
+      "rating_cold": 646,
+      "rating_cool": 1726,
+      "rating_warm": 148,
+      "ranking_cold": 83,
+      "ranking_cool": 790,
+      "ranking_warm": 61
+    },
+    {
+      "seed": 6,
+      "train": 12774,
+      "validation": 4352,
+      "test": 4518,
+      "ranking_users": 939,
+      "candidate_pairs": 1167170,
+      "rating_cold_item": 2014,
+      "rating_cold": 529,
+      "rating_cool": 1827,
+      "rating_warm": 148,
+      "ranking_cold": 74,
+      "ranking_cool": 807,
+      "ranking_warm": 58
+    },
+    {
+      "seed": 7,
+      "train": 12273,
+      "validation": 4699,
+      "test": 4619,
+      "ranking_users": 955,
+      "candidate_pairs": 1187128,
+      "rating_cold_item": 2190,
+      "rating_cold": 530,
+      "rating_cool": 1763,
+      "rating_warm": 136,
+      "ranking_cold": 75,
+      "ranking_cool": 820,
+      "ranking_warm": 60
+    },
+    {
+      "seed": 8,
+      "train": 12125,
+      "validation": 4796,
+      "test": 4704,
+      "ranking_users": 948,
+      "candidate_pairs": 1178514,
+      "rating_cold_item": 2342,
+      "rating_cold": 645,
+      "rating_cool": 1584,
+      "rating_warm": 133,
+      "ranking_cold": 89,
+      "ranking_cool": 807,
+      "ranking_warm": 52
+    },
+    {
+      "seed": 9,
+      "train": 12570,
+      "validation": 4525,
+      "test": 4510,
+      "ranking_users": 939,
+      "candidate_pairs": 1167111,
+      "rating_cold_item": 2102,
+      "rating_cold": 576,
+      "rating_cool": 1682,
+      "rating_warm": 150,
+      "ranking_cold": 78,
+      "ranking_cool": 797,
+      "ranking_warm": 64
+    }
+  ],
+  "all_seeds_have_each_ranking_group": true,
+  "models_trained": false,
+  "dataset_details": {
+    "source": {
+      "source_url": "https://drive.switch.ch/public.php/dav/files/n48smsdufhRA7fR",
+      "source_repository": "https://github.com/diegoantognini/HotelRec",
+      "archive_checksums": {
+        "md5": "671e0290514f8411fe780fdea236783a",
+        "sha256": "160314db15080ecc15b547e9a235dfa971d388a88227e220147dafce3964aaff"
+      },
+      "archive_bytes": 14383775451,
+      "json_decoder": "orjson 3.11.9",
+      "integrity": "Source MD5 and complete HotelRec.txt ZIP CRC verified",
+      "reviews_scanned": 50264531,
+      "reviews_kept": 49047612,
+      "invalid_reviews_skipped": 1216919,
+      "global_counts": {
+        "users": 21891400,
+        "unique_pairs": 47731590,
+        "max_user_degree": 580,
+        "users_with_one": 15004625,
+        "users_ge5": 1946604,
+        "users_ge20": 174620,
+        "users_ge30": 68455
+      },
+      "hotels": 365011,
+      "max_hotel_degree": 10113,
+      "index_seconds": 1860.4,
+      "content": "Hotel name/location from URL only; no review text or ratings",
+      "demographics": "Unavailable; unknown fallback only",
+      "usage": "Academic research only",
+      "invalid_author_policy": [
+        "/undefined",
+        "a tripadvisor member",
+        "anonymous",
+        "null",
+        "undefined",
+        "unknown"
+      ],
+      "excluded_author_placeholders": {
+        "/undefined": {
+          "reviews": 1193017,
+          "unique_pairs": 38820
+        },
+        "Undefined": {
+          "reviews": 12,
+          "unique_pairs": 12
+        }
+      },
+      "sampling": "Full archive: most reviewed hotels, then most active users within selected catalog; ties by string ID",
+      "sampling_limits": {
+        "max_users": 1000,
+        "max_items": 2000
+      },
+      "sample_before_core": {
+        "users": 1000,
+        "min_user_degree": 18,
+        "max_user_degree": 59,
+        "unique_pairs": 23174
+      },
+      "prepared_sha256": {
+        "reviews_slim.csv.gz": "fd6d79a05c91397b39598fddd6db19803700ca7683cbe3a624ac5fb98abf0ee9",
+        "hotels.csv.gz": "1ddfa2e291f214d7d96d42a05ff6fdb8c4eb58eefe032a4fedf2904234f322e2"
+      }
+    },
+    "invalid_author_rows_removed": 0,
+    "subset": {
+      "max_users": 1000,
+      "max_items": 2000,
+      "min_user": 3,
+      "min_item": 5,
+      "selection": "Most reviewed hotels, then most active users; iterative core filtering",
+      "duplicate_pairs": "Keep latest timestamp"
+    }
+  }
+}
